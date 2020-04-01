@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tucorona/precache-manifest.a378c7243ca2ee7e03b3fd0eebb35716.js"
+  "/tucorona/precache-manifest.34eac6c62798729238ed844fc97c9fed.js"
 );
 
 self.addEventListener('message', (event) => {
