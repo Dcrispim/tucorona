@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/tucorona/static/js/main.2b9780ea.chunk.js",
-    "main.js.map": "/tucorona/static/js/main.2b9780ea.chunk.js.map",
+    "main.js": "/tucorona/static/js/main.8ba31063.chunk.js",
+    "main.js.map": "/tucorona/static/js/main.8ba31063.chunk.js.map",
     "runtime-main.js": "/tucorona/static/js/runtime-main.878c6b61.js",
     "runtime-main.js.map": "/tucorona/static/js/runtime-main.878c6b61.js.map",
     "static/js/2.65eda013.chunk.js": "/tucorona/static/js/2.65eda013.chunk.js",
     "static/js/2.65eda013.chunk.js.map": "/tucorona/static/js/2.65eda013.chunk.js.map",
     "index.html": "/tucorona/index.html",
-    "precache-manifest.34eac6c62798729238ed844fc97c9fed.js": "/tucorona/precache-manifest.34eac6c62798729238ed844fc97c9fed.js",
+    "precache-manifest.0753736b2ee6260ac05dbb5b1387b56a.js": "/tucorona/precache-manifest.0753736b2ee6260ac05dbb5b1387b56a.js",
     "service-worker.js": "/tucorona/service-worker.js",
     "static/js/2.65eda013.chunk.js.LICENSE.txt": "/tucorona/static/js/2.65eda013.chunk.js.LICENSE.txt",
     "static/media/virus.svg": "/tucorona/static/media/virus.fce4b322.svg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.878c6b61.js",
     "static/js/2.65eda013.chunk.js",
-    "static/js/main.2b9780ea.chunk.js"
+    "static/js/main.8ba31063.chunk.js"
   ]
 }
