@@ -16,7 +16,8 @@ function Routes() {
                 
           </Route>
           <Route path="/result/:name" children={<Cemetery />}/>
-          <Route path="/" children={<Verify />}/>
+          <Route exact path="/" children={<Verify />}/>
+          <Route path="*" children={<Verify />}/>
         </Switch>
     </Router>
   );

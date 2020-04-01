@@ -17,7 +17,7 @@ const Verify = () => {
   }
   const handleSubmit = (e: IHandleSubmit) => {
     e.preventDefault()
-    window.location.replace(`/result/${e.target.name.value}`)
+    window.location.replace(`/tucorona/result/${e.target.name.value}`)
 
 
   }
