@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7aeed57987862672d1fcc2ac00bac4dc",
+    "revision": "9c7191a31a9452985c56ca84767e70e6",
     "url": "/tucorona/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tucorona/static/js/2.65eda013.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "21977768c8eb485f803f",
-    "url": "/tucorona/static/js/main.3a3a9ce8.chunk.js"
+    "revision": "30736ed117b220000a68",
+    "url": "/tucorona/static/js/main.0703906a.chunk.js"
   },
   {
     "revision": "cbbba2cfaff589e67737",
