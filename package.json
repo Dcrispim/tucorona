@@ -1,6 +1,7 @@
 {
   "name": "tucorona",
   "version": "0.1.0",
+  "homepage": "https://dcrispim.github.io/tucorona/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -20,6 +21,7 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
+    "deploy": "npm run build && ./node_modules/.bin/gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
